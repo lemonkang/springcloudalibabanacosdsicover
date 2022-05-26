@@ -11,6 +11,7 @@
         <module>provider</module>
         <module>providerfeign</module>
         <module>customfeign</module>
+        <module>nacosconfig</module>
     </modules>
     <name>springcloudalibabasecond</name>
     <description>Demo project for Spring Boot</description>

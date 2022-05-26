@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/custom/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/customfeign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/customfeign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacosconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacosconfig/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/providerfeign/src/main/java" charset="UTF-8" />
