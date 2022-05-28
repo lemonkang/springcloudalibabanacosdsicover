@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/nacosconfig/nacosconfig.iml" filepath="$PROJECT_DIR$/nacosconfig/nacosconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/providerfeign/providerfeign.iml" filepath="$PROJECT_DIR$/providerfeign/providerfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel/sentinel.iml" filepath="$PROJECT_DIR$/sentinel/sentinel.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudalibabasecond.iml" filepath="$PROJECT_DIR$/springcloudalibabasecond.iml" />
     </modules>
   </component>
